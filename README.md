@@ -3,7 +3,7 @@ Welcome!
 On this website, I share a personal project that resulted in a short documentary about my professional experience in cultural heritage conservation, 
 particularly in the preservation of audiovisual archives.
 
-Special Thanks 
+## Special Thanks 
 This project was made possible thanks to the support of my husband, a producer, and my sister, a film director, from whom I learned how to document my professional journey through cinema!
 
 ## [Saurio Films](https://www.instagram.com/sauriofilmsmx/)
